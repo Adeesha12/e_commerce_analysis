@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HP - 15.6\" Laptop - Intel Core i3 - 8GB Memory - 128GB UFS - Natural Silver",
+    "price": "$219.99",
+    "link": "https://www.bestbuy.com/product/hp-15-6-laptop-intel-core-i3-8gb-memory-128gb-ufs-natural-silver/JJGH2YK44C",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "Dell - Inspiron - 15.6\" 2K Touchscreen Laptop - AMD Ryzen 7 7730U 2023 - 16GB Memory - 1TB Storage - Carbon Black",
+    "price": "$599.99",
+    "link": "https://www.bestbuy.com/product/dell-inspiron-15-6-2k-touchscreen-laptop-amd-ryzen-7-7730u-2023-16gb-memory-1tb-storage-carbon-black/J3K4L6JRXP",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "HP - 17.3\" Full HD Laptop - AMD Ryzen 5 - 8GB Memory - 512GB SSD - Natural Silver",
+    "price": "$319.99",
+    "link": "https://www.bestbuy.com/product/hp-17-3-full-hd-laptop-amd-ryzen-5-8gb-memory-512gb-ssd-natural-silver/JJGRPJVGFT",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Eclipse Gray",
+    "price": "$989.99",
+    "link": "https://www.bestbuy.com/product/hp-omnibook-x-flip-2-in-1-copilot-pc-16-2k-touch-screen-laptop-intel-core-ultra-7-16gb-memory-1tb-ssd-eclipse-gray/JJGQJRKGR5",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver",
+    "price": "$809.00",
+    "link": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "Lenovo - IdeaPad 3i Chromebook Laptop - 15.6\" Full HD Touch Screen - Pentium Silver N6000 - 8GB Memory - 128GB eMMC - Arctic Grey",
+    "price": "$299.00",
+    "link": "https://www.bestbuy.com/product/lenovo-ideapad-3i-chromebook-laptop-15-6-full-hd-touch-screen-pentium-silver-n6000-8gb-memory-128gb-emmc-arctic-grey/JJGYC3956L",
+    "rating": "N/A",
+    "review_count": "N/A"
+  },
+  {
+    "title": "Lenovo - IdeaPad 3i Chromebook 15.6\" Full HD Laptop - Intel Celeron - 4GB Memory with 64GB eMMC Storage - Arctic Grey",
+    "price": "$181.00",
+    "link": "https://www.bestbuy.com/product/lenovo-ideapad-3i-chromebook-15-6-full-hd-laptop-intel-celeron-4gb-memory-with-64gb-emmc-storage-arctic-grey/JJGSQF6VCX",
+    "rating": "N/A",
+    "review_count": "N/A"
+  }
+]
