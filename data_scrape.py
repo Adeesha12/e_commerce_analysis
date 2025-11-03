@@ -136,7 +136,7 @@ def scrape_products():
                     # wait.until(EC.title_contains("Official Online Store"))
                     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "h1.c-section-title.heading-5.v-fw-medium")))
                     # wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "span.font-sans.text-style-body-md-500")))
-                    # reviews_container = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[5]/div[8]/div[2]/div/ul[2]")))
+                    reviews_container = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[5]/div[8]/div[2]/div/ul[2]")))
                     # print("Found container with absolute XPath!")
                     # wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "ul.list-unstyled.border-sm-none")))
                     review_items = reviews_container.find_elements(By.CSS_SELECTOR, "li.w-full.py-300.py-sm-200.border-light")
